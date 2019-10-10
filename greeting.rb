@@ -5,6 +5,4 @@ def greeting
 end
 
 
-$ greeting.rb 
-Hello Wolrd
-$
+
