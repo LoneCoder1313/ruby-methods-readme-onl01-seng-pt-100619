@@ -14,4 +14,4 @@ phrase = "Hello World!"
   puts phrase
 
 end 
-$ ruby greeting.rb 
+
